@@ -10,4 +10,5 @@
     it with your browser.exe address, #I am using google chrome# ,double click on it.
 <li><b>Step3</b>: Calibrate the webgazer by looking and clicking on the dots. <Warning !! Don't minimize or close it>
 <li><b>Step4</b>: Assemble the hardware as shown in the picture , establish wifi connection in between your laptop and model car.
+  http://www.mediafire.com/view/ce40tjackn6mxez/ESP8266_Connection.JPG/file
 <li><b>Step5</b>: Run "MainControl_CAR.py" for controlling the movement of the car.
